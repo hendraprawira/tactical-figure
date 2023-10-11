@@ -1,0 +1,16 @@
+# Use the OpenJDK 8 as the base image
+FROM openjdk:8-jre-slim
+
+# Copy your Java application and JAR files to the container
+COPY ./out/production/be-tactical-figure/ /tmp
+COPY ./libs/*.jar /tmp/
+
+# Copy your native library to a directory in the container
+COPY ./libs/*.lib /tmp/native_libs/
+
+# Set the java.library.path to include the directory containing the native library
+ENV LD_LIBRARY_PATH /tmp/native_libs/
+WORKDIR /tmp
+
+# Set the entry point for your Java application
+ENTRYPOINT ["java", "-Djava.library.path=/tmp/native_libs/", "Main"]

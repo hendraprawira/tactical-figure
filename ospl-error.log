@@ -1,0 +1,1481 @@
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:12:57+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <23580>
+Thread      : spliced 13756
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696399977.365584600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:12:57+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <23580>
+Thread      : spliced 13756
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696399977.365978900/0
+========================================================================================
+Context     : org.opensplice.dds.dcps.DomainParticipantFactoryImpl.delete_participant
+Date        : 2023-10-04T13:13:08+0700
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <23580>
+Thread      : 15536
+Internals   : DomainParticipantFactoryImpl.java/203/6.9.210323OSS///-1
+----------------------------------------------------------------------------------------
+Report      : Internal error: 1 participants still connected to domain "ospl_sp_ddsi" (0).
+Internals   : user::u_domain::u_domainRemoveParticipant/u_domain.c/2185/769/1696399988.677741600
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:13:37+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15500>
+Thread      : spliced 2580
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696400017.403449100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:13:37+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15500>
+Thread      : spliced 2580
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696400017.403890600/0
+========================================================================================
+Context     : org.opensplice.dds.dcps.DomainParticipantFactoryImpl.delete_participant
+Date        : 2023-10-04T13:13:49+0700
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15500>
+Thread      : 23700
+Internals   : DomainParticipantFactoryImpl.java/203/6.9.210323OSS///-1
+----------------------------------------------------------------------------------------
+Report      : Internal error: 1 participants still connected to domain "ospl_sp_ddsi" (0).
+Internals   : user::u_domain::u_domainRemoveParticipant/u_domain.c/2185/769/1696400029.504283200
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:14:35+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <23816>
+Thread      : spliced 4892
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696400075.262150000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:14:35+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <23816>
+Thread      : spliced 4892
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696400075.262554600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:38:43+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <6748>
+Thread      : spliced 19492
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696401523.564448300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:38:43+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <6748>
+Thread      : spliced 19492
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696401523.564684700/0
+========================================================================================
+Context     : org.opensplice.dds.dcps.DomainParticipantFactoryImpl.create_participant
+Date        : 2023-10-04T13:38:46+0700
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <6748>
+Thread      : 14772
+Internals   : DomainParticipantFactoryImpl.java/175/6.9.210323OSS///-1
+----------------------------------------------------------------------------------------
+Report      : Unable to connect to domain id = 1.
+              The most common causes of this error are an incorrect configuration file or
+              that OpenSpliceDDS is not running (when using shared memory mode).
+Internals   : u_participantNew/u_participant.c/234/773/1696401526.147239600
+----------------------------------------------------------------------------------------
+Report      : Failed to start Spliced for domain 'ospl_sp_ddsi' within 0 seconds, result = U_RESULT_PRECONDITION_NOT_MET
+
+Internals   : user::u_domain::startSpliceThread/u_domain.c/1253/781/1696401526.147266000
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:39:07+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18172>
+Thread      : spliced 19716
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696401547.072400400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:39:07+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18172>
+Thread      : spliced 19716
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696401547.072647000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:48:56+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18128>
+Thread      : spliced 23924
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696402136.926808800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:48:56+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18128>
+Thread      : spliced 23924
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696402136.927008000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:52:26+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <6876>
+Thread      : spliced 3068
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696402346.900601700/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T13:52:26+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <6876>
+Thread      : spliced 3068
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696402346.900799000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T14:20:03+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <13968>
+Thread      : spliced 18132
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696404003.426599200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T14:20:03+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <13968>
+Thread      : spliced 18132
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696404003.426778100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T14:22:22+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20748>
+Thread      : spliced 10588
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696404142.103467000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T14:22:22+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20748>
+Thread      : spliced 10588
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696404142.103689000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T14:49:09+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <17544>
+Thread      : spliced 18408
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696405749.447441800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T14:49:09+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <17544>
+Thread      : spliced 18408
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696405749.447625500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T14:50:26+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <13580>
+Thread      : spliced 15320
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696405826.925570600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T14:50:26+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <13580>
+Thread      : spliced 15320
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696405826.925761200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T14:54:54+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21920>
+Thread      : spliced 18208
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696406094.415608500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T14:54:54+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21920>
+Thread      : spliced 18208
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696406094.415806200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:46:05+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <3684>
+Thread      : spliced 8872
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696409165.872505200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:46:05+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <3684>
+Thread      : spliced 8872
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696409165.872736600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:47:27+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10708>
+Thread      : spliced 8700
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696409247.749273100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:47:27+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10708>
+Thread      : spliced 8700
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696409247.749466600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:51:53+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15080>
+Thread      : spliced 12356
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696409513.366356900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:51:53+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15080>
+Thread      : spliced 12356
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696409513.366555300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:53:19+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10696>
+Thread      : spliced 6596
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696409599.542170800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:53:19+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10696>
+Thread      : spliced 6596
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696409599.542348500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:53:53+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <17400>
+Thread      : spliced 21124
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696409633.152574900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:53:53+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <17400>
+Thread      : spliced 21124
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696409633.152754300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:54:36+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <7856>
+Thread      : spliced 14360
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696409676.816675100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:54:36+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <7856>
+Thread      : spliced 14360
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696409676.816896500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:55:00+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <11600>
+Thread      : spliced 11232
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696409700.948586700/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:55:00+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <11600>
+Thread      : spliced 11232
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696409700.948807300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:56:39+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18932>
+Thread      : spliced 13252
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696409799.984073500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T15:56:39+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18932>
+Thread      : spliced 13252
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696409799.984378500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:24:38+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <22656>
+Thread      : spliced 6772
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696411478.175926700/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:24:38+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <22656>
+Thread      : spliced 6772
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696411478.176135900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:26:21+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15168>
+Thread      : spliced 11356
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696411581.722315300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:26:21+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15168>
+Thread      : spliced 11356
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696411581.722798100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:27:18+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <13464>
+Thread      : spliced 4584
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696411638.843110200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:27:18+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <13464>
+Thread      : spliced 4584
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696411638.843741900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:29:15+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <23144>
+Thread      : spliced 844
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696411755.134366000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:29:15+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <23144>
+Thread      : spliced 844
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696411755.134917200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:31:42+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <24396>
+Thread      : spliced 11876
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696411902.353862400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:31:42+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <24396>
+Thread      : spliced 11876
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696411902.354378200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:32:46+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15080>
+Thread      : spliced 14488
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696411966.650289700/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:32:46+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15080>
+Thread      : spliced 14488
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696411966.650947000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:36:08+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <17736>
+Thread      : spliced 15364
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696412168.879794700/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:36:08+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <17736>
+Thread      : spliced 15364
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696412168.880397400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:38:28+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21576>
+Thread      : spliced 14732
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696412308.804364900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T16:38:28+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21576>
+Thread      : spliced 14732
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696412308.804994800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T20:08:40+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <23820>
+Thread      : spliced 3140
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696424920.596320500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T20:08:40+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <23820>
+Thread      : spliced 3140
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696424920.596772900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T20:09:29+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16448>
+Thread      : spliced 22224
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696424969.009209000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T20:09:29+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16448>
+Thread      : spliced 22224
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696424969.009790400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T20:15:17+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10612>
+Thread      : spliced 19844
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696425317.737981900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T20:15:17+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10612>
+Thread      : spliced 19844
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696425317.738385000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T20:21:46+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14160>
+Thread      : spliced 13900
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696425706.366592800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T20:21:46+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14160>
+Thread      : spliced 13900
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696425706.367139400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T20:23:10+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21048>
+Thread      : spliced 12916
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696425790.798773900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T20:23:10+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21048>
+Thread      : spliced 12916
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696425790.799317600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T21:51:40+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21224>
+Thread      : spliced 23288
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696431100.838379200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T21:51:40+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21224>
+Thread      : spliced 23288
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696431100.838963500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T21:53:24+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8972>
+Thread      : spliced 15128
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696431204.724802500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T21:53:24+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8972>
+Thread      : spliced 15128
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696431204.725371300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T21:54:42+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <7984>
+Thread      : spliced 4048
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696431282.870212800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T21:54:42+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <7984>
+Thread      : spliced 4048
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696431282.870664900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T21:56:21+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <4992>
+Thread      : spliced 10760
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696431381.384785100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T21:56:21+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <4992>
+Thread      : spliced 10760
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696431381.385226800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T21:59:09+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14140>
+Thread      : spliced 10508
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696431549.352397900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T21:59:09+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14140>
+Thread      : spliced 10508
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696431549.352853300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T21:59:58+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <12748>
+Thread      : spliced 20016
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696431598.729642900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T21:59:58+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <12748>
+Thread      : spliced 20016
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696431598.730052000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T22:01:11+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <3216>
+Thread      : spliced 20208
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696431671.204817000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T22:01:11+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <3216>
+Thread      : spliced 20208
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696431671.205370300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T22:01:45+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21164>
+Thread      : spliced 23092
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696431705.266387000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T22:01:45+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21164>
+Thread      : spliced 23092
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696431705.266792500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T22:05:06+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20596>
+Thread      : spliced 21772
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696431906.281468500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-04T22:05:06+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20596>
+Thread      : spliced 21772
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696431906.281996100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:16:27+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15320>
+Thread      : spliced 9860
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696468587.086858000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:16:27+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15320>
+Thread      : spliced 9860
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696468587.087090800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:16:47+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <7308>
+Thread      : spliced 24280
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696468607.825299900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:16:47+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <7308>
+Thread      : spliced 24280
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696468607.825513600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:18:03+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <17860>
+Thread      : spliced 23280
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696468683.701038500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:18:03+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <17860>
+Thread      : spliced 23280
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696468683.701224200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:19:20+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <2876>
+Thread      : spliced 10984
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696468760.379030400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:19:20+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <2876>
+Thread      : spliced 10984
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696468760.379236100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:47:55+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <6548>
+Thread      : spliced 15484
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696470475.879215200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:47:55+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <6548>
+Thread      : spliced 15484
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696470475.879492900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:49:32+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19784>
+Thread      : spliced 13916
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696470572.008095700/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:49:32+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19784>
+Thread      : spliced 13916
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696470572.008296100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:50:27+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <436>
+Thread      : spliced 8740
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696470627.729310200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:50:27+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <436>
+Thread      : spliced 8740
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696470627.729668000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:51:23+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16988>
+Thread      : spliced 1056
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696470683.460760000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:51:23+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16988>
+Thread      : spliced 1056
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696470683.461079800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:52:38+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15996>
+Thread      : spliced 9172
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696470758.838688100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:52:38+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15996>
+Thread      : spliced 9172
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696470758.838891200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:55:32+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8800>
+Thread      : spliced 22056
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696470932.120061700/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:55:32+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8800>
+Thread      : spliced 22056
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696470932.120278500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:56:02+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10876>
+Thread      : spliced 24536
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696470962.373086900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:56:02+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <10876>
+Thread      : spliced 24536
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696470962.373434200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:56:05+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <13548>
+Thread      : spliced 20708
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696470965.841581400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:56:05+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <13548>
+Thread      : spliced 20708
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696470965.841858800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:57:40+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8924>
+Thread      : spliced 22440
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696471060.954675000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:57:40+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8924>
+Thread      : spliced 22440
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696471060.954853300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:59:27+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20644>
+Thread      : spliced 22456
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696471167.977383500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:59:27+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20644>
+Thread      : spliced 22456
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696471167.977584800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:59:52+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <9064>
+Thread      : spliced 13076
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696471192.409069900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T08:59:52+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <9064>
+Thread      : spliced 13076
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696471192.409286900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:00:35+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16472>
+Thread      : spliced 23080
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696471235.654204900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:00:35+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16472>
+Thread      : spliced 23080
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696471235.654445000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:00:58+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21360>
+Thread      : spliced 17428
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696471258.457820700/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:00:58+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21360>
+Thread      : spliced 17428
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696471258.458026800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:01:54+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14308>
+Thread      : spliced 15524
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696471314.453167100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:01:54+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <14308>
+Thread      : spliced 15524
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696471314.453408300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:02:35+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <412>
+Thread      : spliced 8728
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696471355.156655100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:02:35+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <412>
+Thread      : spliced 8728
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696471355.156891300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:06:23+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21976>
+Thread      : spliced 10040
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696471583.106409200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:06:23+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21976>
+Thread      : spliced 10040
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696471583.106601300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:08:51+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18216>
+Thread      : spliced 9348
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696471731.804017800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:08:51+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18216>
+Thread      : spliced 9348
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696471731.804265600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:10:41+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15016>
+Thread      : spliced 20616
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696471841.662892600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:10:41+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15016>
+Thread      : spliced 20616
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696471841.663073600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:11:43+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <17888>
+Thread      : spliced 10100
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696471903.478735300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:11:43+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <17888>
+Thread      : spliced 10100
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696471903.478960400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:12:07+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21464>
+Thread      : spliced 22952
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696471927.829327400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:12:07+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <21464>
+Thread      : spliced 22952
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696471927.829508800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:13:51+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16448>
+Thread      : spliced 23088
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696472031.255534200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:13:51+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <16448>
+Thread      : spliced 23088
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696472031.255728100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:15:53+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <22004>
+Thread      : spliced 2384
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696472153.934165200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:15:53+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <22004>
+Thread      : spliced 2384
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696472153.934378400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:16:33+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19244>
+Thread      : spliced 16976
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696472193.832186900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:16:33+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19244>
+Thread      : spliced 16976
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696472193.832500500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:30:07+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18176>
+Thread      : spliced 6392
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696473007.364654400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T09:30:07+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <18176>
+Thread      : spliced 6392
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696473007.365086100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T10:09:01+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <22548>
+Thread      : spliced 20836
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696475341.712074000/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T10:09:01+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <22548>
+Thread      : spliced 20836
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696475341.712879300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T13:12:45+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <4176>
+Thread      : spliced 10096
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696486365.216688800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T13:12:45+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <4176>
+Thread      : spliced 10096
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696486365.217038600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T13:15:09+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <9492>
+Thread      : spliced 11584
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696486509.495797800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T13:15:09+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <9492>
+Thread      : spliced 11584
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696486509.496008300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T13:15:35+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <9868>
+Thread      : spliced 23964
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696486535.200522500/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T13:15:35+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <9868>
+Thread      : spliced 23964
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696486535.200783700/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T13:16:57+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <1336>
+Thread      : spliced 21100
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696486617.604525300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T13:16:57+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <1336>
+Thread      : spliced 21100
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696486617.604807700/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T13:23:35+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20564>
+Thread      : spliced 24244
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696487015.901876200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T13:23:35+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <20564>
+Thread      : spliced 24244
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696487015.902107600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T13:25:59+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15452>
+Thread      : spliced 13900
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696487159.803292900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T13:25:59+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <15452>
+Thread      : spliced 13900
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696487159.803513900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T14:14:53+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19300>
+Thread      : spliced 17244
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696490093.459581400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T14:14:53+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19300>
+Thread      : spliced 17244
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696490093.459839900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T14:53:29+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19736>
+Thread      : spliced 22692
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696492409.520680200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T14:53:29+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19736>
+Thread      : spliced 22692
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696492409.520929200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T14:56:27+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <7476>
+Thread      : spliced 2784
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696492587.687986400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T14:56:27+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <7476>
+Thread      : spliced 2784
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696492587.688209800/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T14:57:56+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <25220>
+Thread      : spliced 22452
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696492676.417479300/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T14:57:56+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <25220>
+Thread      : spliced 22452
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696492676.417718600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T15:01:29+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <6708>
+Thread      : spliced 9508
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696492889.468072400/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T15:01:29+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <6708>
+Thread      : spliced 9508
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696492889.468259200/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T15:04:09+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19900>
+Thread      : spliced 21792
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696493049.855001100/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-05T15:04:09+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <19900>
+Thread      : spliced 21792
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696493049.855232600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-06T08:31:36+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8952>
+Thread      : spliced 24672
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696555896.160338900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-06T08:31:36+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <8952>
+Thread      : spliced 24672
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696555896.160808900/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-06T08:33:39+0700
+Description : LoadLibrary error: 127
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <12532>
+Thread      : spliced 26296
+Internals   : 6.9.210323OSS///os_libraryOpen/os__library.c/61/0/1696556019.076621600/0
+========================================================================================
+Report      : ERROR
+Date        : 2023-10-06T08:33:39+0700
+Description : Problem opening 'cmsoap'
+
+Node        : LAPTOP-T2907TUU
+Process     : java.exe <12532>
+Thread      : spliced 26296
+Internals   : 6.9.210323OSS///OpenSplice domain service/spliced.c/668/0/1696556019.077004200/0

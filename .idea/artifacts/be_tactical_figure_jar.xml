@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="be-tactical-figure:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/be_tactical_figure_jar</output-path>
+    <root id="archive" name="be-tactical-figure.jar">
+      <element id="module-output" name="be-tactical-figure" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/tyrus_server_client_jar_files/tyrus-spi-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/tyrus_server_client_jar_files/tyrus-core-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/tyrus_server_client_jar_files/tyrus-client-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/tyrus_server_client_jar_files/tyrus-server-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/tyrus_server_client_jar_files/grizzly-rcm-2.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/tyrus_server_client_jar_files/grizzly-http-2.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/tyrus_server_client_jar_files/grizzly-framework-2.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/tyrus_server_client_jar_files/javax.websocket-api-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/tyrus_server_client_jar_files/tyrus-websocket-core-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/tyrus_server_client_jar_files/grizzly-http-server-2.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/tyrus_server_client_jar_files/tyrus-container-grizzly-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/com.fasterxml.jackson.core.jar/com.fasterxml.jackson.core.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../OpenSplices/opensplice-OSPL_V6_9_210323OSS_RELEASE/install/HDE/x86_64.win64/jar/cmapi.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../OpenSplices/opensplice-OSPL_V6_9_210323OSS_RELEASE/install/HDE/x86_64.win64/jar/dcpssaj.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../OpenSplices/opensplice-OSPL_V6_9_210323OSS_RELEASE/install/HDE/x86_64.win64/jar/ddsface.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../OpenSplices/opensplice-OSPL_V6_9_210323OSS_RELEASE/install/HDE/x86_64.win64/jar/dcpssaj5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../OpenSplices/opensplice-OSPL_V6_9_210323OSS_RELEASE/install/HDE/x86_64.win64/jar/osplconf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../OpenSplices/opensplice-OSPL_V6_9_210323OSS_RELEASE/install/HDE/x86_64.win64/jar/cmdataadapter.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../OpenSplices/opensplice-OSPL_V6_9_210323OSS_RELEASE/install/HDE/x86_64.win64/jar/tooling_common.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../OpenSplices/opensplice-OSPL_V6_9_210323OSS_RELEASE/install/HDE/x86_64.win64/jar/dcpssaj-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../OpenSplices/opensplice-OSPL_V6_9_210323OSS_RELEASE/install/HDE/x86_64.win64/jar/dcpssaj5-sources.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../OpenSplices/opensplice-OSPL_V6_9_210323OSS_RELEASE/install/HDE/x86_64.win64/jar/dcpssaj-osgi-bundle.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/gson-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/postgresql-42.6.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/com.fasterxml.jackson.databind.jar/com.fasterxml.jackson.databind.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../JAR Java/com.fasterxml.jackson.annotations.jar/com.fasterxml.jackson.annotations.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
